@@ -29,12 +29,15 @@ Dynamic Platform: Combines a robust backend with a user-friendly frontend to cre
 Ticket Management: Users can easily purchase tickets for events while venue owners can manage ticket inventories in real time.
 
 Data Efficiency: Leveraged MySQL to optimize database performance for faster query handling and better scalability.
+
 Intuitive Design: The frontend, built with HTML/CSS, ensures accessibility and ease of use across devices, catering to a diverse user base.
 
 How It Works:
+
 Venue Owners:
 Sign up and create a profile.
 Add venue details and list events with complete information.
+
 Users:
 Browse venues or events using an intuitive search functionality.
 Book venues or purchase tickets directly from the platform.
